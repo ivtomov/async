@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ibqtOX0AqrADvDvZguDi467JQhMg1SYMvq9Wrr/SxOmF/O3ikSPmBYTu8jRu1a1miiPlk9mOTJRe/4lmB0Tpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivanb\\OneDrive\\Desktop\\Паралелно програмиране\\WPF_App\\WPF_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivanb\\.nuget\\packages\\htmlagilitypack\\1.11.71\\htmlagilitypack.1.11.71.nupkg.sha512"
+  ],
+  "logs": []
+}
